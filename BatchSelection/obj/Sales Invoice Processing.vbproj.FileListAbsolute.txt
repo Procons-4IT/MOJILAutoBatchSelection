@@ -1,0 +1,19 @@
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\bin\Debug\Sales Invoice Processing.exe
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\bin\Debug\Sales Invoice Processing.pdb
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\bin\Debug\Sales Invoice Processing.xml
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\Sales Invoice Processing.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\SalesInvoiceProcessing.Resources.resources
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\Sales Invoice Processing.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\Sales Invoice Processing.exe
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\Sales Invoice Processing.xml
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Sales Order Processing\Source Code\Sales Order Processing\obj\Debug\Sales Invoice Processing.pdb
+E:\InterNational Business Projects\SAS Files\Project Template\obj\Debug\Sales Invoice Processing.exe
+E:\InterNational Business Projects\SAS Files\Project Template\obj\Debug\Sales Invoice Processing.xml
+E:\InterNational Business Projects\SAS Files\Project Template\obj\Debug\Sales Invoice Processing.pdb

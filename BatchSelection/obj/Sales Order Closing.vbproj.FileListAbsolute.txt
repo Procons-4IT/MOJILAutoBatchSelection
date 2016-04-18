@@ -1,0 +1,18 @@
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\bin\Debug\Sales Order Closing.exe
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\Sales Order Closing.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\SalesOrderClosing.Resources.resources
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\Sales Order Closing.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\Sales Order Closing.exe
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\Sales Order Closing.xml
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\obj\Debug\Sales Order Closing.pdb
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\bin\Debug\Sales Order Closing.pdb
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\bin\Debug\Sales Order Closing.xml
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\SalesOrder Closing\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Sales Order Closing.xml
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Sales Order Closing.pdb

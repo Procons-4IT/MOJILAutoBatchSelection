@@ -1,0 +1,19 @@
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\WMS.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\WMS.Resources.resources
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\WMS.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\bin\Debug\WMS.exe
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\bin\Debug\WMS.pdb
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\bin\Debug\WMS.xml
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\WMS.exe
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\WMS.xml
+E:\InterNational Business Projects\Procons-4it\WMS Using Tables\WMS Using Tables\obj\Debug\WMS.pdb
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\WMS.exe
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\WMS.xml
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\WMS.pdb

@@ -1,0 +1,19 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43520" Position="13" String="Prunelle" Type="2" UniqueID="Z_mnu_PR001" Image="">
+							</Menu>
+
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_PR001" Position="0" String="Setup" Type="2" UniqueID="Z_mnu_PR002" Image="">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_PR002" Position="1" String="Driver Master" Type="1" UniqueID="Z_mnu_PR003" Image="">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_PR002" Position="2" String="Route Master" Type="1" UniqueID="Z_mnu_PR004" Image="">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_PR002" Position="3" String="Customer Route" Type="1" UniqueID="Z_mnu_PR005" Image="">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_PR002" Position="4" String="Item Type" Type="1" UniqueID="Z_mnu_PR006" Image="">
+      </Menu>
+		</action>
+	</Menus>
+</Application>

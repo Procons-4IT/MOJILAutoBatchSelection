@@ -1,0 +1,32 @@
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\bin\Debug\BatchSelection.exe
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\bin\Debug\BatchSelection.pdb
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\bin\Debug\BatchSelection.xml
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\bin\Debug\Interop.SAPbobsCOM.dll
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\bin\Debug\Interop.SAPbouiCOM.dll
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\bin\Debug\Interop.Scripting.dll
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\ResolveAssemblyReference.cache
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\Interop.SAPbobsCOM.dll
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\Interop.SAPbouiCOM.dll
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\Interop.Scripting.dll
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\BatchSelection.vbproj.ResolveComReference.cache
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\BatchSelection.Resources.resources
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\BatchSelection.vbproj.GenerateResource.Cache
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\BatchSelection.exe
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\BatchSelection.xml
+F:\Internation Projects 2016\Procons4it\Armada\20150422_Prunelle Addon 1.0.0\obj\Debug\BatchSelection.pdb
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\BatchSelection.exe
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\BatchSelection.xml
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\BatchSelection.pdb
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\bin\Debug\BatchSelection.exe
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\bin\Debug\BatchSelection.pdb
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\bin\Debug\BatchSelection.xml
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\bin\Debug\Interop.SAPbobsCOM.dll
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\bin\Debug\Interop.SAPbouiCOM.dll
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\bin\Debug\Interop.Scripting.dll
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\ResolveAssemblyReference.cache
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\Interop.SAPbobsCOM.dll
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\Interop.SAPbouiCOM.dll
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\Interop.Scripting.dll
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\BatchSelection.vbproj.ResolveComReference.cache
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\BatchSelection.Resources.resources
+F:\Internation Projects 2016\Procons4it\Armada\BatchSelection\obj\Debug\BatchSelection.vbproj.GenerateResource.Cache

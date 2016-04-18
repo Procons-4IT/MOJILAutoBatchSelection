@@ -1,0 +1,32 @@
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\bin\Debug\Invoice and Sales Order Matching.exe
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\bin\Debug\Invoice and Sales Order Matching.pdb
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\bin\Debug\Invoice and Sales Order Matching.xml
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Invoice_SalesOrderMatching.Resources.resources
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.exe
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.xml
+E:\InterNational Business Projects\Geroge\DataBest_November2010\New Design requirment\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.pdb
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.xml
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.pdb
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\bin\Debug\Invoice and Sales Order Matching.exe
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\bin\Debug\Invoice and Sales Order Matching.pdb
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\bin\Debug\Invoice and Sales Order Matching.xml
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Invoice_SalesOrderMatching.Resources.resources
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\Databest_June 2011\Invoice and Sales Order Matching\obj\Debug\Invoice and Sales Order Matching.exe
