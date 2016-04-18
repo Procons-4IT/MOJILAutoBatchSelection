@@ -75,10 +75,12 @@ Public Class clsBatchSelection
                 If dblSelectedqty > 0 Then
                     strqry = "select DistNumber FROM OBTQ T0  INNER JOIN OBTN T1 ON T0.MdAbsEntry = T1.AbsEntry INNER JOIN OITM T2 ON "
                     If strCardCode <> "" Then
-                        strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,T1.ExpDate,getDate())>90 and   T1.MnfSerial='" & strCardCode & "' and T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
+                        '/ strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,T1.ExpDate,getDate())>90 and   T1.MnfSerial='" & strCardCode & "' and T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
+                        strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,getDate(),T1.ExpDate)>90 and   T1.MnfSerial='" & strCardCode & "' and T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
                         'strqry = strqry & " and T1.MnfSerial='" & strCardCode & "'"
                     Else
-                        strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,T1.ExpDate,getDate())>90 and  T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
+                        '  strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,T1.ExpDate,getDate())>90 and  T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc " '
+                        strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,getDate(),T1.ExpDate)>90 and  T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
                     End If
                     oSerialRec.DoQuery(strqry)
                     Quantity = dblSelectedqty
