@@ -56,9 +56,15 @@ Public Class clsBatchSelection
                     strCardCode = oApplication.Utilities.getEdittextvalue(frmSourceForm, "4")
                 End If
             End If
+            Dim blnAttributeRequired As Boolean = False
             If strCardCode <> "" Then
-                oSerialRec.DoQuery("Select * from OCRD where CardCode='" & strCardCode & "'")
+                oSerialRec.DoQuery("Select *,isnull(U_BAttriReq,'N') 'AttReq' from OCRD where CardCode='" & strCardCode & "'")
                 If oSerialRec.RecordCount > 0 Then
+                    If oSerialRec.Fields.Item("AttReq").Value = "Y" Then
+                        blnAttributeRequired = True
+                    Else
+                        blnAttributeRequired = False
+                    End If
                     If oSerialRec.Fields.Item("U_Attribute1").Value <> "" Then
                         strCardCode = oSerialRec.Fields.Item("U_Attribute1").Value
                     Else
@@ -74,14 +80,20 @@ Public Class clsBatchSelection
                 strwhs = oRowsMatrix.Columns.Item("3").Cells.Item(intRow).Specific.value
                 If dblSelectedqty > 0 Then
                     strqry = "select DistNumber FROM OBTQ T0  INNER JOIN OBTN T1 ON T0.MdAbsEntry = T1.AbsEntry INNER JOIN OITM T2 ON "
-                    If strCardCode <> "" Then
-                        '/ strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,T1.ExpDate,getDate())>90 and   T1.MnfSerial='" & strCardCode & "' and T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
-                        strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,getDate(),T1.ExpDate)>90 and   T1.MnfSerial='" & strCardCode & "' and T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
-                        'strqry = strqry & " and T1.MnfSerial='" & strCardCode & "'"
+                    If blnAttributeRequired = True Then
+                        If strCardCode <> "" Then
+                            strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,getDate(),T1.ExpDate)>90 and   T1.MnfSerial='" & strCardCode & "' and T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
+                        Else
+                            strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,getDate(),T1.ExpDate)>90 and  T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
+                        End If
                     Else
-                        '  strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,T1.ExpDate,getDate())>90 and  T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc " '
-                        strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,getDate(),T1.ExpDate)>90 and  T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
+                        If strCardCode <> "" Then
+                            strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,getDate(),T1.ExpDate)>90 and   T1.MnfSerial<>'" & strCardCode & "' and T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
+                        Else
+                            strqry = strqry & " T0.ItemCode = T2.ItemCode where DateDiff(day,getDate(),T1.ExpDate)>90 and  T2.ItemCode='" & strItemCode & "' and  T0.[Quantity] > 0 order by T1.ExpDate,T1.SysNumber asc "
+                        End If
                     End If
+                    
                     oSerialRec.DoQuery(strqry)
                     Quantity = dblSelectedqty
                     diffQuantity = Quantity

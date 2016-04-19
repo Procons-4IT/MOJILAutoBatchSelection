@@ -303,7 +303,8 @@ Public NotInheritable Class clsTable
 
             oApplication.Utilities.Message("Initializing Database...", SAPbouiCOM.BoStatusBarMessageType.smt_Warning)
             AddFields("OCRD", "Attribute1", "Batch Attribute1", SAPbobsCOM.BoFieldTypes.db_Alpha, , 50)
-          
+            addField("OCRD", "BAttriReq", "Batch Attribute Required", SAPbobsCOM.BoFieldTypes.db_Alpha, 1, SAPbobsCOM.BoFldSubTypes.st_Address, "Y,N", "Yes,No", "Y")
+
             oApplication.Utilities.Message("Initializing Database...", SAPbouiCOM.BoStatusBarMessageType.smt_Warning)
             CreateUDO()
 
