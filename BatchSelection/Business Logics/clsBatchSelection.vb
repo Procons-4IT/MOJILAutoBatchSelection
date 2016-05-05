@@ -108,7 +108,7 @@ Public Class clsBatchSelection
                                 MatQuantity = MatQuantity - dblAlloc
                                 If strSerial = MatSerial Then
                                     If diffQuantity > 0 Then
-                                        If diffQuantity > MatQuantity Then
+                                        If diffQuantity >= MatQuantity Then
                                             oApplication.Utilities.SetMatrixValues(oSerialMatrix, "4", intloop1, MatQuantity)
                                             If aForm.TypeEx = frm_PickBatchSelect Then
                                                 oApplication.Utilities.SetMatrixValues(oSerialMatrix, "1320000037", intloop1, MatQuantity)
